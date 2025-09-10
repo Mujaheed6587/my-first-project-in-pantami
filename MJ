@@ -1,0 +1,6 @@
+# Simple program that uses your first and second names
+
+first_name = "Mujaheed"
+second_name = "Abdulkadir"
+
+print(f"Hello, {first_name} {second_name}! Welcome to your first program.")
